@@ -1,5 +1,5 @@
 package vootrancy.controller;
 
-public class VooTrancyController {
+public class PassagemController {
     
 }

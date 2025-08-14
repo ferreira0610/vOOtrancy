@@ -1,5 +1,5 @@
 package vootrancy.service;
 
-public class VooTrancyService {
+public class PassageiroService {
     
 }
