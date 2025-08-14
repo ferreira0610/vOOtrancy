@@ -1,4 +1,4 @@
-package main.java.vootrancy.controller;
+package vootrancy.controller;
 
 public class VooTrancyController {
     

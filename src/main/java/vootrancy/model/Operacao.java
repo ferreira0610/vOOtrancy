@@ -1,5 +1,5 @@
-package main.java.vootrancy.model;
+package vootrancy.model;
 
-public class Reserva {
+public class Operacao {
     
 }
